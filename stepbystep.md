@@ -4,6 +4,6 @@
   - Desinger
   - Manager
 - ### ICT 
-  - Voltimeter
+  - Multimeter
   - LED Tester
   - USB Cables
